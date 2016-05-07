@@ -73,4 +73,8 @@ To run tests from IDE, you need:
  * Add JVM argument to use redefinition agent (`-javaagent:agent/build/libs/agent.jar`).
  * Add JVM argument to DCEVM VM if installed side-by-side (`-XXaltjvm=dcevm`).
 
+### Some Links about the dcevm
+(http://www.cnblogs.com/redcreen/archive/2011/06/03/2071169.html)
+
+
 ### Known issues
